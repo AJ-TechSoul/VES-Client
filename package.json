@@ -6,13 +6,14 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "
+    https://github.com/electron/electron-quick-start",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Virtualnit",
+    "Examination",
+    "System",
+    "VES",
+    "Client"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
