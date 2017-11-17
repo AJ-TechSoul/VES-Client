@@ -7,7 +7,7 @@
     "start": "electron ."
   },
   "repository": "
-    https://github.com/electron/electron-quick-start",
+    https://github.com/AJ-TechSoul/VES-Client",
   "keywords": [
     "Virtualnit",
     "Examination",
@@ -15,7 +15,7 @@
     "VES",
     "Client"
   ],
-  "author": "GitHub",
+  "author": "AJ",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "~1.6.2"
